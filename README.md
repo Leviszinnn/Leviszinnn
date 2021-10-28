@@ -2,6 +2,11 @@
 
 ## I'm Levi Bueno
 
+## Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levlzlnxD)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
