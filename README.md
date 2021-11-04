@@ -1,6 +1,12 @@
-### # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm Levi Bueno
+
+<p>I have 16y, I'm a begginer development student</p>
+
+- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on personal projects
+
 
 ## Stats:
 
