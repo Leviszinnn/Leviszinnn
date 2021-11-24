@@ -9,9 +9,11 @@
 
 
 ## Stats:
-
+<div> 
+ justify-content='space-beetween'
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levlzlnxD&show_icons=true&theme=synthwave)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levlzlnxD&layout=compact&langs_count=7&theme=synthwave">
+</div>
 
 
 ## Social medias & Contact:
