@@ -4,7 +4,7 @@
 
 <p>I have 16y, I'm a begginer development student</p>
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning MongoDB
 - 🔭 I’m currently working on personal projects
 
 
