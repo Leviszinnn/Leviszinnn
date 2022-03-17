@@ -4,8 +4,8 @@
 
 <p>I have 17y, I'm a begginer development student</p>
 
-- 🌱 I’m currently learning I.A.
-- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning python
+- 🔭 I’m currently working on projects
 
 
 ## Stats:
