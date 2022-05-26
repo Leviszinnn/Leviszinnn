@@ -4,7 +4,7 @@
 
 <p>I have 17y, I'm a begginer development student</p>
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Cognitive Services from Azure
 - 🔭 I’m currently working on projects
 
 
