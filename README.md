@@ -1,4 +1,4 @@
-### Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hello guys!
 
 ## I'm Levi Bueno
 
