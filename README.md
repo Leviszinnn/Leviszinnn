@@ -10,7 +10,7 @@
 
 ## Stats:
 <div> 
-<img src="https://github-readme-stats.vercel.app/api?username=LevlzlnnnDev&show_icons=true&theme=synthwave" width="400" height="300">
+<img src="https://github-readme-stats.vercel.app/api?username=LevlzlnnnDev&show_icons=true&theme=synthwave" width="400" height="250">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevlzlnnnDev&layout=compact&langs_count=7&theme=synthwave" width="400" height="200">
 </div>
 
