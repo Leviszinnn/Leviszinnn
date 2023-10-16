@@ -2,11 +2,7 @@
 
 ## I'm Levi Bueno
 
-<p>I have 18 years old, I'm a begginer dev student</p>
-
-- 🌱 I’m currently learning Cognitive Services from Azure
-- 🔭 I’m currently working on personal projects
-
+<p>I have 18 years old, I'm a Computer Science student</p>
 
 ## Stats:
 <div> 
