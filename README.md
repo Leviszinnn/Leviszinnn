@@ -2,7 +2,7 @@
 
 ## I'm Levi Bueno
 
-<p>I have 18 years old, I'm a Computer Science student</p>
+<p>I have 19 years old, I'm a I.T student</p>
 
 ## Stats:
 <div> 
